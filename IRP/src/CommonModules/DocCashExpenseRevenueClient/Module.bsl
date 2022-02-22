@@ -1,4 +1,4 @@
-#Region FormEvents
+﻿#Region FormEvents
 
 Procedure OnOpen(Object, Form, Cancel) Export
 	ViewClient_V2.OnOpen(Object, Form, "PaymentList");
