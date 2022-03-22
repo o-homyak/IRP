@@ -6,6 +6,11 @@
     <value>Additional dataproc</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
   <picture xsi:type="core:PictureRef">
     <picture>CommonPicture.AddDataProc</picture>
   </picture>
